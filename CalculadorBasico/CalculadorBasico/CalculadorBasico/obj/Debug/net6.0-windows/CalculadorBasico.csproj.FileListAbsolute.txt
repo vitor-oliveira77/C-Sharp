@@ -1,0 +1,17 @@
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\bin\Debug\net6.0-windows\CalculadorBasico.exe
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\bin\Debug\net6.0-windows\CalculadorBasico.deps.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\bin\Debug\net6.0-windows\CalculadorBasico.runtimeconfig.json
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\bin\Debug\net6.0-windows\CalculadorBasico.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\bin\Debug\net6.0-windows\CalculadorBasico.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.csproj.AssemblyReference.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.CalculadorBasico.resources
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.csproj.GenerateResource.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.AssemblyInfoInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.AssemblyInfo.cs
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.csproj.CoreCompileInputs.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\refint\CalculadorBasico.dll
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.pdb
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\CalculadorBasico.genruntimeconfig.cache
+C:\Users\vinic\OneDrive\Área de Trabalho\Coisas da área de trabalho\CURSOS VITOR\faculdade\C#\CalculadorBasico\CalculadorBasico\CalculadorBasico\obj\Debug\net6.0-windows\ref\CalculadorBasico.dll
